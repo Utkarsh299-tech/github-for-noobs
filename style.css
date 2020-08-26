@@ -8,7 +8,7 @@
 }
 body{
     min-height: 100vh;
-    background: #150019;
+    background: lavender;
 }
 .navigation{
     position: fixed;
@@ -101,7 +101,4 @@ body{
         left: 0px;
         width: 100%;
     }
-}
-body{
-  
 }
